@@ -1,0 +1,1 @@
+psql --dbname=postgres://tiffest_user:12345@localhost:5432/tiffest < file.sql

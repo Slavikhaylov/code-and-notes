@@ -1,0 +1,1 @@
+rsync -aP --exclude=venv -e "ssh -p 7997" zamon@zamon.uz:/home/zamon/tiffest-django/media .
